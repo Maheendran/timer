@@ -1,0 +1,51 @@
+.container{
+    margin-top: 20px;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid;
+    text-align: center;
+    align-items: center;
+}
+.btn{
+    margin: auto;
+    width: 500px;
+    height: 50px;
+    border: 0px solid;
+    text-align: center;
+ padding-top: 20px;
+
+}
+.restart{
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 18px;
+  font-weight: 600;
+    background-color: aqua;
+    border: 0px;
+    color: black;
+}
+.stop{
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 18px;
+  font-weight: 600;
+    background-color: rgb(215, 80, 12);
+    border: 0px;
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.pause{
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 18px;
+  font-weight: 600;
+    background-color: rgb(59, 197, 25);
+    border: 0px;
+    color: black;
+}
